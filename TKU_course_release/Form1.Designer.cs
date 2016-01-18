@@ -239,7 +239,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;
             this.Name = "TKUCourse";
-            this.Text = "TKU Course (v1.1)";
+            this.Text = "TKU Course (v1.2)";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.TKUCourse_FormClosing);
             this.Load += new System.EventHandler(this.TKUCourse_Load);
             this.groupBox_Mode.ResumeLayout(false);

@@ -55,7 +55,7 @@ namespace TKU_course_release
             radioButton_Normal.Checked = true;
             webBrowser.Navigate(comboBox_URL.Text);
             if (MessageBox.Show("This program only provides ease of enrollment, developer for not assume any responsibility for the following conditions:\n1. Any error when using this program (including the program crashes, the school system revision, etc.).\n2. The use of any improper use.\n3. The breakdown of the above statements since many developers retain the final interpretation.\n＊ If you click \"Yes\" and use it means that you have agreed to the above specification or else click \"No\" to exit the application.", "Comfirm", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation) == DialogResult.No) Close();
-            MessageBox.Show("This application version : 1.1\nMake sure to check the latest version from the following URL http://tkucourseapplication.souceforge.net", "Message", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+            MessageBox.Show("This application version : 1.2\nMake sure to check the latest version from the following URL http://tkucourseapplication.souceforge.net", "Message", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
         }
 
         private void Normal_Mode()
@@ -75,7 +75,7 @@ namespace TKU_course_release
                         webBrowser.Document.Body.All["txtPSWD"].InnerText = textBox_StuPWD.Text;
                         webBrowser.Document.GetElementById("btnLogin").InvokeMember("click");
                         BrowserLoading();
-                    } while (String_Web.IndexOf("「淡江大學個人化入口網」", 0) != -1);
+                    } while (String_Web.IndexOf("「淡江大學單一登入(SSO)」", 0) != -1 || String_Web.IndexOf("Tamkang University Single Sign On (SSO)", 0) != -1);
 
                     char[] charsToTrim = { ' ', '\n', '#' };
                     string[] region = textBox_CourseCode.Text.Split(',', '\n');
@@ -137,7 +137,7 @@ namespace TKU_course_release
                         webBrowser.Document.Body.All["txtPSWD"].InnerText = textBox_StuPWD.Text;
                         webBrowser.Document.GetElementById("btnLogin").InvokeMember("click");
                         BrowserLoading();
-                    } while (String_Web.IndexOf("「淡江大學個人化入口網」", 0) != -1);
+                    } while (String_Web.IndexOf("「淡江大學單一登入(SSO)」", 0) != -1 || String_Web.IndexOf("Tamkang University Single Sign On (SSO)", 0) != -1);
                     count = 0;
                     while(true)
                     {

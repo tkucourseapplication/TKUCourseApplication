@@ -33,3 +33,12 @@ C:\Users\400400817\Desktop\TKU_course_release\TKU_course_release\obj\Release\TKU
 C:\Users\400400817\Desktop\TKU_course_release\TKU_course_release\obj\Release\TKU_course_release.TKUCourse.resources
 C:\Users\400400817\Desktop\TKU_course_release\TKU_course_release\obj\Release\TKU_course_release.Properties.Resources.resources
 C:\Users\400400817\Desktop\TKU_course_release\TKU_course_release\obj\Release\TKU_course_release.csproj.GenerateResource.Cache
+C:\Users\400400817\Desktop\新增資料夾\TKUCourseApplication\TKU_course_release\bin\Release\TKU_course_release.exe.config
+C:\Users\400400817\Desktop\新增資料夾\TKUCourseApplication\TKU_course_release\obj\Release\TKU_course_release.exe
+C:\Users\400400817\Desktop\新增資料夾\TKUCourseApplication\TKU_course_release\obj\Release\TKU_course_release.pdb
+C:\Users\400400817\Desktop\新增資料夾\TKUCourseApplication\TKU_course_release\bin\Release\TKU_course_release.exe
+C:\Users\400400817\Desktop\新增資料夾\TKUCourseApplication\TKU_course_release\bin\Release\TKU_course_release.pdb
+C:\Users\400400817\Desktop\新增資料夾\TKUCourseApplication\TKU_course_release\obj\Release\TKU_course_release.csprojResolveAssemblyReference.cache
+C:\Users\400400817\Desktop\新增資料夾\TKUCourseApplication\TKU_course_release\obj\Release\TKU_course_release.TKUCourse.resources
+C:\Users\400400817\Desktop\新增資料夾\TKUCourseApplication\TKU_course_release\obj\Release\TKU_course_release.Properties.Resources.resources
+C:\Users\400400817\Desktop\新增資料夾\TKUCourseApplication\TKU_course_release\obj\Release\TKU_course_release.csproj.GenerateResource.Cache
