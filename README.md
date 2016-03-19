@@ -1,7 +1,7 @@
 # TKUCourseApplication
 This is a program to help you on TKU curriculum online system.
 
-[TKU Curriculum Online System(Chinese)](http://www.ais.tku.edu.tw/elecos/)[TKU Curriculum Online System(English)](http://www.ais.tku.edu.tw/EleCos_English/loginE.aspx)
+[TKU Curriculum Online System(Chinese)](http://www.ais.tku.edu.tw/elecos/)  [TKU Curriculum Online System(English)](http://www.ais.tku.edu.tw/EleCos_English/loginE.aspx)
 
 This program only provides ease of enrollment, developer for not assume any responsibility for the following conditions:
 
@@ -9,11 +9,13 @@ This program only provides ease of enrollment, developer for not assume any resp
 
 2. The use of any improper use.
 
-3.The breakdown of the above statements since many developers retain the final interpretation.
+3. The breakdown of the above statements since many developers retain the final interpretation.
 
 ![image](http://i.imgur.com/iXwweYR.png)
 
 # [Executable File Download](https://sourceforge.net/projects/tkucourseapplication/files/latest/download)
+
+Before excute the file, you need to install the Microsoft .NET Framework 3.5.([click here](https://www.microsoft.com/en-us/download/details.aspx?id=21) to download)
 
 # The Application Using Method
 
