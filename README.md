@@ -1,6 +1,8 @@
 # TKUCourseApplication
 This is a program to help you on TKU curriculum online system.
 
+[TKU Curriculum Online System(Chinese)](http://www.ais.tku.edu.tw/elecos/)[TKU Curriculum Online System(English)](http://www.ais.tku.edu.tw/EleCos_English/loginE.aspx)
+
 This program only provides ease of enrollment, developer for not assume any responsibility for the following conditions:
 
 1. Any error when using this program (including the program crashes, the school system revision, etc.).
@@ -10,6 +12,8 @@ This program only provides ease of enrollment, developer for not assume any resp
 3.The breakdown of the above statements since many developers retain the final interpretation.
 
 ![image](http://i.imgur.com/iXwweYR.png)
+
+# [Executable File Download](https://sourceforge.net/projects/tkucourseapplication/files/latest/download)
 
 # The Application Using Method
 
