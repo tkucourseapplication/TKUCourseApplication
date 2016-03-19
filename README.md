@@ -9,6 +9,8 @@ This program only provides ease of enrollment, developer for not assume any resp
 
 3.The breakdown of the above statements since many developers retain the final interpretation.
 
+![image](http://i.imgur.com/iXwweYR.png)
+
 # The Application Using Method
 
 Please use “>”, “#” and ”,” these symbols to separate your course codes.
@@ -44,3 +46,7 @@ If course 0000,4444,5555,6666,7777 are full, the application will execute as fel
 ->Add 1234(success, jump to the next)
 
 -> end(no next region)
+
+Before you click the start button, it will jump the message box to confirm your command.
+
+![image](http://i.imgur.com/dlO2tEw.png)
