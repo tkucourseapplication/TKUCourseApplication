@@ -21,7 +21,9 @@ Before excute the file, you need to install the Microsoft .NET Framework 3.5.([c
 
 Please use “>”, “#” and ”,” these symbols to separate your course codes.
 
-※“,” is your region divide symbol\n※“>” is your order divide symbol
+※“,” is your region divide symbol
+
+※“>” is your order divide symbol
 
 ※“#” is drop course symbol, should be used at the beginning of the course code, be extra careful using this!!
 
