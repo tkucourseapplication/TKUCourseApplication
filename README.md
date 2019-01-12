@@ -2,6 +2,8 @@ A .NET wrapper for TKUCourseApplication
 
 This is a program to help you on TKU curriculum online system (Include the break captcha).
 
+[Nuget Package Page](https://www.nuget.org/packages/TKUCourseApplication)
+
 [TKU Curriculum Online System(Chinese)](http://www.ais.tku.edu.tw/elecos/)  [TKU Curriculum Online System(English)](http://www.ais.tku.edu.tw/EleCos_English/loginE.aspx)
 
 ## Dependencies
@@ -52,17 +54,17 @@ while (tku.Login("your_student_id", "your_student_password") == false){
 
 if (tku.AddCourse("1234")){//If add successfully, return true, else return false
     Console.WriteLine("Add : " + s + " Successfully!!");
-	}// Display successfully message 
+    }// Display successfully message 
 else{
     Console.WriteLine("Add : " + s + " Failed!!");
-	}//display failed message
+    }//display failed message
 	
-	if (tku.DropCourse("1234")){//If drop successfully, return true, else return false
+if (tku.DropCourse("1234")){//If drop successfully, return true, else return false
     Console.WriteLine("Drop : " + s + " Successfully!!");
-	}// Display successfully message 
+    }// Display successfully message 
 else{
     Console.WriteLine("Drop : " + s + " Failed!!");
-	}//display failed message
+    }//display failed message
 ```
 ### English Server
 ```c#
@@ -73,17 +75,17 @@ while (tku.Login("your_student_id", "your_student_password") == false){
 
 if (tku.AddCourse("1234")){//If add successfully, return true, else return false
     Console.WriteLine("Add : " + s + " Successfully!!");
-	}// Display successfully message 
+    }// Display successfully message 
 else{
     Console.WriteLine("Add : " + s + " Failed!!");
-	}//display failed message
+    }//display failed message
 	
-	if (tku.DropCourse("1234")){//If drop successfully, return true, else return false
+if (tku.DropCourse("1234")){//If drop successfully, return true, else return false
     Console.WriteLine("Drop : " + s + " Successfully!!");
-	}// Display successfully message 
+    }// Display successfully message 
 else{
     Console.WriteLine("Drop : " + s + " Failed!!");
-	}//display failed message
+    }//display failed message
 ```
 
 
